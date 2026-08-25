@@ -1,0 +1,29 @@
+{
+  "id": "liquid-glass",
+  "name": "液态玻璃",
+  "nameEn": "Liquid Glass",
+  "author": "dsh-web-ui",
+  "tagline": "Apple 液态玻璃 · 黑色玻璃背景 · 全界面液体胶囊按钮",
+  "description": "《液态玻璃》— 以 Apple Liquid Glass 设计语言重塑整个 dsh web GUI：中性黑色玻璃壁纸（亮色炭黑、暗色纯黑，无色相）垫在全视口玻璃之下，侧栏/面板/气泡/输入框用半透明磨砂表面透出背景光晕，全部按钮与交互控件变成带顶部高光、底部辉光与内反射的液体胶囊（轻点如按下液态金属，悬停泛起辉光），黑色底让玻璃质感完全凸显。统一的荧光绿 #08ff08 作为品牌强调色贯穿文字与强调，紫色调彻底退场。",
+  "tags": [
+    "apple",
+    "liquid-glass",
+    "glass",
+    "black",
+    "frosted",
+    "translucent",
+    "capsule"
+  ],
+  "accent": "#08ff08",
+  "bodyAttr": "data-dsh-liquid-glass",
+  "package": "@linxin666/dsh-client-ui-skin-liquid-glass",
+  "wiring": {
+    "id": "ui-skin-liquid-glass",
+    "bundleWired": false
+  },
+  "preview": {
+    "light": "packages/skins/liquid-glass/preview/light.png",
+    "dark": "packages/skins/liquid-glass/preview/dark.png"
+  },
+  "order": 11
+}
